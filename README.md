@@ -66,9 +66,8 @@ vehicle_system/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd vehicle_system
-```
+git clone https://github.com/Amrutha-Santhosh/vehicle-inventory-booking-api.git
+cd vehicle-inventory-booking-api ```
 
 ### 2. Create a virtual environment
 
